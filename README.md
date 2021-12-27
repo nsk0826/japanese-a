@@ -1,0 +1,2 @@
+# japanese-a
+あ
